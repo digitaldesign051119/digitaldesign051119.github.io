@@ -639,6 +639,7 @@ footer .bottom a {
     .about_me .decor2,
     .about_me .decor3 {
         transform: scale(0.5);
+        filter: brightness(40%);
     }
 
     .about_me .decor1 {
