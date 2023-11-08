@@ -611,7 +611,9 @@ footer .bottom span {
     color: var(--second-color);
 }
 
-
+footer .bottom a {
+    text-decoration: underline; 
+}
 
 
 
