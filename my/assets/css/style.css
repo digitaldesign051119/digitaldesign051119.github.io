@@ -819,7 +819,7 @@ footer .bottom a {
         background-color: var(--second-color);
         border: none;
         border-radius: 0;
-        padding: 30px;
+        padding: 70px 30px; 
     }
 
     header .menu.active::after {
