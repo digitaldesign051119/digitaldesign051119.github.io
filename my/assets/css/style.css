@@ -474,6 +474,7 @@ h1 span:nth-child(4) {
     top: 220px;
     left: 0;
     z-index: -1;
+    filter: brightness(35%)
 }
 
 .about_me .decor2 {
